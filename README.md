@@ -1,3 +1,6 @@
+Binder > [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maucintra/python-inovacao-civica/HEAD)
+
+
 # python-inovacao-civica
 
 Olá! Este é o repositório do curso **Python para inovação cívica**. Aqui você encontrará os materiais complementares das aulas e os notebooks dos desafios.
