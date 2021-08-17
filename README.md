@@ -1,4 +1,4 @@
-Binder > [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maucintra/python-inovacao-civica/HEAD)
+Binder para esse repositório:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maucintra/python-inovacao-civica/HEAD)
 
 
 # python-inovacao-civica
